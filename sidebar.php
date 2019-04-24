@@ -52,6 +52,19 @@
                         <p> projetc</p>
                     </a>
                 </li>
+                <li>
+                    <a href="finance.php">
+                        <i class="pe-7s-graph"></i>
+                        <p> Finanace</p>
+                    </a>
+
+                </li>
+                <li>
+                    <a href="certificate.php">
+                        <i class="pe-7s-note2"></i>
+                        <p> Certificate</p>
+                    </a>
+                </li>
             </ul>
     	</div>
     </div>

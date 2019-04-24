@@ -16,7 +16,7 @@
 
                               </a>
                               <ul class="dropdown-menu">
-                                <li><a href="profile.php">Profile</a></li>
+                                <li><a href="student_portal.php">Profile</a></li>
                                 <li><a href="logout.php">Log out</a></li>
                                
                               </ul>
